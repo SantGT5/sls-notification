@@ -1,0 +1,19 @@
+{
+  "name": "sls-notification",
+  "version": "1.0.0",
+  "description": "Notification via Email micro-service",
+  "author": "Qhoda",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "serverless-bundle": "^5.5.0",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1286.0"
+  }
+}
